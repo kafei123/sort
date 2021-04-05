@@ -1,0 +1,5 @@
+/.idea
+/test/upload
+/vendor
+/composer.lock
+.php_cs.cache
